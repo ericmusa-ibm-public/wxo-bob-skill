@@ -1,4 +1,4 @@
-# IBM Bob - Watsonx Orchestrate (skill)
+# IBM Bob - Watsonx Orchestrate skill
 
 A Bob skill for building, testing, debugging, and publishing
 **IBM watsonx Orchestrate** agents, tools, flows, MCP toolkits, connections, models,
