@@ -1,0 +1,10 @@
+﻿.DS_Store
+.bob/mcp.json
+/.bob/skills/wm-integration-skills
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+.vscode/
+.bob/
